@@ -1,6 +1,8 @@
 # jupyter_theme_builder
 
-[![Github Actions Status](https://github.com/jupyterlab-contrib/jupyter-theme-build/workflows/Build/badge.svg)](https://github.com/jupyterlab-contrib/jupyter-theme-build/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab-contrib/jupyter-theme-build/main?urlpath=lab)
+**WIP this is very early work in progress and nothing is yet working.** But don't hesitate to open issues and PRs if you want to help.
+
+[![Extension status](https://img.shields.io/badge/status-draft-critical 'Not yet working')][![Github Actions Status](https://github.com/jupyterlab-contrib/jupyter-theme-builder/workflows/Build/badge.svg)](https://github.com/jupyterlab-contrib/jupyter-theme-builder/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab-contrib/jupyter-theme-builder/main?urlpath=lab)
 
 A Lumino extension to build a Jupyter theme.
 
