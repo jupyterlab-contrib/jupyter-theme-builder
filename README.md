@@ -1,3 +1,5 @@
+⚠️ **This project is archived. You should prefer [jupyter-theme-editor](https://github.com/jupyterlab-contrib/jupyterlab-theme-editor).**
+
 # jupyter_theme_builder
 
 **WIP this is very early work in progress and nothing is yet working.** But don't hesitate to open issues and PRs if you want to help.
